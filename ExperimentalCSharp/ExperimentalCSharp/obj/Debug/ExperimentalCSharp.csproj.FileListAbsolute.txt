@@ -1,0 +1,1 @@
+c:\repos\ExperimentalCSharp\ExperimentalCSharp\ExperimentalCSharp\bin\Debug\ExperimentalCSharp.exe.config
